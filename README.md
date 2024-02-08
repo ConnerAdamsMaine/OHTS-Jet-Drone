@@ -14,5 +14,9 @@ Above and below are our links/sources to documentation on code, command, and des
 *C++* - C++ is used for most every major component of this project. The Arduino's controlling the motors, the communication between arduino and raspberry pi, and any other background processes required.
 
 ## Required Modules
-__Python__ - Tkinter, RPi.GPIO, Serial, time, and Flask
-```pip install tkinter```
+__Python__ - Tkinter, RPi.GPIO, Serial, time, and Flask.
+    Tkinter - ```pip install tkinter```
+    RPi.GPIO - ```pip install RPi.GPIO```
+    Serial - ```pip install PySerial```
+    time - ```pip install time```
+    Flask - ```pip install Flask```
