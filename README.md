@@ -18,8 +18,8 @@ Above and below are our links/sources to documentation on code, command, and des
 ## Required Modules
 __Python__ - Tkinter, RPi.GPIO, Serial, time, and Flask.
 
-*Tkinter* - ```pip install tkinter```
-*RPi.GPIO* - ```pip install RPi.GPIO```
-*Serial* - ```pip install PySerial```
-*time* - ```pip install time```
-*Flask* - ```pip install Flask```
+*Tkinter* - ```pip install tkinter```  
+*RPi.GPIO* - ```pip install RPi.GPIO```  
+*Serial* - ```pip install PySerial```  
+*time* - ```pip install time```  
+*Flask* - ```pip install Flask```  
