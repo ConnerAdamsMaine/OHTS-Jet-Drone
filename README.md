@@ -24,5 +24,9 @@ __Python__ - Tkinter, RPi.GPIO, Serial, time, and Flask.
 *time* - ```pip install time```  
 *Flask* - ```pip install Flask```  
 
+## How it works
+
+The Arduino Mega will be connected to the internet via a wifi hat and will have a static IP address configured by the team. Once done a secondary program will be written to connect to the Arduino giving vital control capability. Once that has been done it will be tethered to the web server via internet connection to Raspbery Pi. The Raspberry Pi will be taking secondary inputs from the Arduino via a 4 bit connection. If control becomes impossible via tethered internet connection the Raspberry Pi will assume control sending a full stop command to the Arduino until the error has been assessed and the Raspberry Pi has prepped the Arduino and additional hardware/sensors for it's control. Web based control will then be reconnected VIA internet connection to the Raspberry Pi HOST1.
+
 
 *Officially licensed under GNU GPLv3 and OHTS-JD License V1**
