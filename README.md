@@ -23,3 +23,6 @@ __Python__ - Tkinter, RPi.GPIO, Serial, time, and Flask.
 *Serial* - ```pip install PySerial```  
 *time* - ```pip install time```  
 *Flask* - ```pip install Flask```  
+
+
+Officially licensed under GNU GPLv3 and OHTS-JD License V1
