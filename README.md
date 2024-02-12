@@ -25,4 +25,4 @@ __Python__ - Tkinter, RPi.GPIO, Serial, time, and Flask.
 *Flask* - ```pip install Flask```  
 
 
-Officially licensed under GNU GPLv3 and OHTS-JD License V1
+*Officially licensed under GNU GPLv3 and OHTS-JD License V1**
